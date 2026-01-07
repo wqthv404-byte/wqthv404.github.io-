@@ -2,7 +2,20 @@ body {
   background-color: black !important;
   color: white !important;
 }
-h1 {
-  color: red;
-  font-size: 40px;
+h1,h2 {
+  color:#1f4f66;
+}
+label{
+  font-weight:bold;
+}
+button{
+  background-color:#1f4f66;
+  color:white;
+  padding:10px 20px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+button-hover{
+  background-color:#163a4a;
 }
