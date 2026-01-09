@@ -1,9 +1,13 @@
 body {
   background-color: black;
   color: white;
+  font-family: Arial, sans-serif;
 }
-h1,h2 {
+h1,{
   color: #f5f5f5;
+}
+h2 {
+  color: #ffb703;
 }
 label{
   font-weight:bold;
