@@ -1,6 +1,6 @@
 body {
   background-color: black !important;
-  color: white !important;
+  color: white;
 }
 h1,h2 {
   color:#1f4f66;
